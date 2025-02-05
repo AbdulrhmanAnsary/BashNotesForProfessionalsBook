@@ -1,7 +1,7 @@
 # Learn bash
-Welcome to the "Learn Bash" repository! This repository is a collection of Bash scripts where you can find various examples and exercises to learn and improve your Bash scripting skills, I will put here some of the things I learn in bash.
+Welcome to the "BashNotesForProfessionalsBook" repository! This repository contains some examples from some chapters from the book "BashnotesforProfessionals" knowing that some of the contents of the book are difficult to represent and present as files.
 ## Description
-Learn bash script with me from zero.
+Learn bash script with me from zero by explaining some examples of the book.
 
 ## Getting Started
 To get started, clone this repository to your local machine using the following command:
